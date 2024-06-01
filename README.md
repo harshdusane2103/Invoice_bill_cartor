@@ -1,16 +1,7 @@
-# invoice_bill_ui
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>#️⃣Invoice Bill Generator#️⃣</h1>
+<p>
+    <img src="https://github.com/harshdusane2103/Invoice_bill_creator/blob/master/bill.png" width=21%,heigth=35%>
+    <img src="https://github.com/harshdusane2103/Invoice_bill_creator/blob/master/bill.png" width=21%,heigth=35%>
+    <img src="https://github.com/harshdusane2103/Invoice_bill_creator/blob/master/bill.png" width=21%,heigth=35%>
+  <video src="https://github.com/harshdusane2103/Invoice_bill_creator/assets/161817658/95ef2481-7b8a-4bc8-bc7a-ff4b730b4b5a">
+</p>
