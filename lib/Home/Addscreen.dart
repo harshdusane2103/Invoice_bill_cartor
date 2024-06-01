@@ -29,6 +29,11 @@ class _BillscreenState extends State<Billscreen> {
         actions: [
           InkWell(
               onTap: () {
+                setState(() {
+                  price=0;
+                  qty=0;
+                  amount=0;
+                });
                 Navigator.of(context).pushNamed('/pdf');
                for(int i=0;i<productlist.length;i++)
                  {
